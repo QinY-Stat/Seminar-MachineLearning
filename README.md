@@ -11,7 +11,7 @@ Title | Host | Time
 [7.Adaboost](https://github.com/TUFE-I307/Seminar-MachineLearning/tree/master/7.Adaboost) | [李嘉](https://github.com/lijia2019310)、[范莹莹](https://github.com/Nicefyy) | ~~2019-11-07~~
 8.回归 | [韩琳琳](https://github.com/SA5233) | ~~2019-11-15~~
 9.随机森林 | [刘萌萌](https://github.com/Mengmengliu6)、[王禹童](https://github.com/wangyutong-97) | **2019-11-21**
-10.Apriori | - | 2019-11-28
-11.EM | - | 2019-12-05
+10.Apriori | [郭嘉琪](https://github.com/ordinary-precious) | 2019-11-28
+11.EM | [蔡承真](https://github.com/ccz-123) | 2019-12-05
 12.BP神经网络 | - | 2019-12-12
 [[扩]谱聚类](https://github.com/TUFE-I307/Seminar-MachineLearning/tree/master/%E8%B0%B1%E8%81%9A%E7%B1%BB) | [覃悦](https://github.com/QinY-Stat) | ~~2019-10-24~~
