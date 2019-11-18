@@ -22,7 +22,7 @@ Title | Host | Time
 故将本人在学习期间接触到的认为较好的资料总结在此,希望能够帮助到后来的师弟师妹.  
 **同时欢迎大家不断补充自己认为较好的资料,前人栽树,后人乘凉.**  
 
-Type | Name | Author | Remark
+资料类型 | 资料名称 | 作者 | 备注说明
 :----: | :----: | :----: | :----: |
 Book | [《统计学习方法》](https://github.com/QinY-Stat/Seminar-MachineLearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E7%AC%AC1%E7%89%88).pdf) | 李航 | 机器学习经典中文书籍
 Book | 《机器学习》| 周志华 | 西瓜书,机器学习经典中文书籍
