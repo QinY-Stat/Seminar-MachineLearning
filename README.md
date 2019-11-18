@@ -2,7 +2,7 @@
   
 [![指导教师](https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%95%99%E5%B8%88-%E5%87%A4%E4%B8%BD%E6%B4%B2-blue)](http://tongji.tjufe.edu.cn/info/1069/1217.htm)  
 ## 日程安排
-Title | Host | Time
+主题 | 主讲人 | 时间
 :----: | :----: | :----:
 [3.决策树](https://github.com/QinY-Stat/Seminar-MachineLearning/tree/master/3.%E5%86%B3%E7%AD%96%E6%A0%91) | [蔡承真](https://github.com/ccz-123) | ~~2019-10-16~~
 [4.朴素贝叶斯](https://github.com/TUFE-I307/Seminar-MachineLearning/tree/master/4.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF) | [韩琳琳](https://github.com/SA5233) | ~~2019-10-16~~
