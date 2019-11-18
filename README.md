@@ -16,7 +16,7 @@ Title | Host | Time
 12.BP神经网络 | - | 2019-12-12
 [[扩]谱聚类](https://github.com/TUFE-I307/Seminar-MachineLearning/tree/master/%E8%B0%B1%E8%81%9A%E7%B1%BB) | [覃悦](https://github.com/QinY-Stat) | ~~2019-10-24~~  
   
-## 学习资料汇总
+## 学习资料
 一些机器学习领域的经典学习资料.  
 虽然这些资料均可在网络上找到,但许多人在入门时较为迷茫,而每本书都有其侧重点,
 故将本人在学习期间接触到的认为较好的资料总结在此,希望能够帮助到后来的师弟师妹.  
